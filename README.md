@@ -22,6 +22,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-6a2a47269/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devbezerra/)
 
 
+![snake gif](https://github.com/lucaslfb/lucaslfb/blob/output/github-contribution-grid-snake.svg)
+
+
 # GitHub Stats 📊
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lucaslfb&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslfb&theme=dark&hide_border=false"  width="400px" />
 
