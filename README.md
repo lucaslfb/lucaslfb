@@ -19,7 +19,7 @@
 
 # Socials 🌐
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-6a2a47269/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devbezerra/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devbezerra/)
 
 
 
@@ -32,4 +32,4 @@
 
 
 
-![snake gif](https://github.com/lucaslfb/lucaslfb/blob/output/github-contribution-grid-snake.svg)
+
