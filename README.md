@@ -1,7 +1,8 @@
 <h1>Hi there 👋</h1>
 
-<p>I'm Lucas Bezerra, a tech enthusiast and code lover. I'm currently a SAD student at a Brazilian university.<br>
-  I've approximately one year of experience with programming and I have knowledge in some technologies.</p>
+<p>I'm Lucas Bezerra, a tech enthusiast and code lover. I'm graduated in SAD from a Brazilian university.<br>
+  I've approximately three years of programming experience and knowledge iof several technologies.<br>
+  I'm data engineer and specialist in ETL, BI and everything related to data.</p>
 <h1>Skills 🚀</h1>
 <p>Passionate about knowing how the "backstage" of things works, I always seek to understand the construction<br>
   of functions in any area of life.</p>
